@@ -1,3 +1,4 @@
 # Misiones
 
-Investigar como funciona github
+* Investigar como funciona github
+* Hacer algunos push
